@@ -9,7 +9,7 @@
 
 | Seen On | Repo  | Description |
 | -----   | ----- | ----- |
-| | [https://github.com/topherCantrell/computerarcheology](computerarcheology) | Content for the computerarcheology.com website |
+| | [computerarcheology](https://github.com/topherCantrell/computerarcheology) | Content for the computerarcheology.com website |
 
 class-oop-pcs
 class-AdvancedPython
