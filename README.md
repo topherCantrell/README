@@ -2,23 +2,34 @@
 
 ## ComputerArcheology.com
 
-| Organization | Class            | Dates              | Days    | Time            |
-| ------       | ------           | ------             | ------  | ------          |
-| PCS          | Intro Python     | 1/28/20 to 2/18/20 | Tu/Th   | 5:30PM - 8:30PM |
-| PCS          | Advanced Python  | 3/3/20 to 3/24/20  | Tu/Th   | 5:30PM - 8:30PM |
-
 | Seen On | Repo  | Description |
 | -----   | ----- | ----- |
 | | [computerarcheology](https://github.com/topherCantrell/computerarcheology) | Content for the computerarcheology.com website |
 
-class-oop-pcs
-class-AdvancedPython
-class-IntroPython
-class-IntroJava
-class-AdvancedJava
-class-piCreate
-class-JavaScript
-class-HTMLCSS
+## Teaching
+
+| Seen On | Repo  | Description |
+| -----   | ----- | ----- |
+| | [class-oop-pcs](https://github.com/topherCantrell/class-oop-pcs) | |
+| | [class-AdvancedPython](https://github.com/topherCantrell/class-AdvancedPython) | |
+| | [class-IntroPython](https://github.com/topherCantrell/class-IntroPython) | |
+| | [class-IntroJava](https://github.com/topherCantrell/class-IntroJava) | |
+| | [class-AdvancedJava](https://github.com/topherCantrell/class-AdvancedJava) | |
+| | [class-piCreate](https://github.com/topherCantrell/class-piCreate) | |
+| | [class-JavaScript](https://github.com/topherCantrell/class-JavaScript) | |
+| | [class-HTMLCSS](https://github.com/topherCantrell/class-HTMLCSS) | |
+
+
+
+| | [](https://github.com/topherCantrell/) | |
+| | [](https://github.com/topherCantrell/) | |
+| | [](https://github.com/topherCantrell/) | |
+| | [](https://github.com/topherCantrell/) | |
+| | [](https://github.com/topherCantrell/) | |
+
+
+
+
 
 SV robots-piCreate
 robots-topherBot
