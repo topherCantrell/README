@@ -8,16 +8,16 @@
 
 ## Teaching
 
-| See   | Repo  | Description |
-| ----- | ----- | ----- |
-| | [class-oop-pcs](https://github.com/topherCantrell/class-oop-pcs) | |
-| | [class-AdvancedPython](https://github.com/topherCantrell/class-AdvancedPython) | |
-| | [class-IntroPython](https://github.com/topherCantrell/class-IntroPython) | |
-| | [class-IntroJava](https://github.com/topherCantrell/class-IntroJava) | |
-| | [class-AdvancedJava](https://github.com/topherCantrell/class-AdvancedJava) | |
-| | [class-piCreate](https://github.com/topherCantrell/class-piCreate) | |
-| | [class-JavaScript](https://github.com/topherCantrell/class-JavaScript) | |
-| | [class-HTMLCSS](https://github.com/topherCantrell/class-HTMLCSS) | |
+| Repo  | Description |
+| ----- | ----- |
+| [class-oop-pcs](https://github.com/topherCantrell/class-oop-pcs) | |
+| [class-AdvancedPython](https://github.com/topherCantrell/class-AdvancedPython) | |
+| [class-IntroPython](https://github.com/topherCantrell/class-IntroPython) | |
+| [class-IntroJava](https://github.com/topherCantrell/class-IntroJava) | |
+| [class-AdvancedJava](https://github.com/topherCantrell/class-AdvancedJava) | |
+| [class-piCreate](https://github.com/topherCantrell/class-piCreate) | |
+| [class-JavaScript](https://github.com/topherCantrell/class-JavaScript) | |
+| [class-HTMLCSS](https://github.com/topherCantrell/class-HTMLCSS) | |
 
 ## Robots
 
