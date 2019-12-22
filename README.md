@@ -23,7 +23,7 @@
 
 | See   | Repo  | Description |
 | ----- | ----- | ----- |
-| [![](art/servo-small.jpg)](computerarcheology.com) | [robots-piCreate](https://github.com/topherCantrell/robots-piCreate) | |
+| [![](art/servo-small.jpg)](https://computerarcheology.com) | [robots-piCreate](https://github.com/topherCantrell/robots-piCreate) | |
 | | [robots-topherBot](https://github.com/topherCantrell/robots-topherBot) | |
 | ![](art/circuitcellar-small.jpg) | [robots-MIDIBOT](https://github.com/topherCantrell/robots-MIDIBOT) | |
 | | [robots-miniRaceCar](https://github.com/topherCantrell/robots-miniRaceCar) | |
