@@ -36,7 +36,7 @@
 | See   | Repo  | Description |
 | ----- | ----- | ----- |
 | | [iot-dungeonHumidity](https://github.com/topherCantrell/iot-dungeonHumidity) | |
-| AF | [iot-clock](https://github.com/topherCantrell/iot-clock) | |
+| ![](art/adafruit-small.jpg) | [iot-clock](https://github.com/topherCantrell/iot-clock) | |
 | AF | [iot-powerctl](https://github.com/topherCantrell/iot-powerctl) | |
 | | [iot-gateway](https://github.com/topherCantrell/iot-gateway) | |
 | | [iot-freezerMonitor](https://github.com/topherCantrell/iot-freezerMonitor) | |
