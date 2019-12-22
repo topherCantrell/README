@@ -35,7 +35,7 @@
 | ----- | ----- | ----- |
 | | [iot-dungeonHumidity](https://github.com/topherCantrell/iot-dungeonHumidity) | |
 | ![](art/adafruit-small.jpg) | [iot-clock](https://github.com/topherCantrell/iot-clock) | |
-| AF | [iot-powerctl](https://github.com/topherCantrell/iot-powerctl) | |
+| ![](art/adafruit-small.jpg) | [iot-powerctl](https://github.com/topherCantrell/iot-powerctl) | |
 | | [iot-gateway](https://github.com/topherCantrell/iot-gateway) | |
 | | [iot-freezerMonitor](https://github.com/topherCantrell/iot-freezerMonitor) | |
 | | [iot-IR-Gateway](https://github.com/topherCantrell/iot-IR-Gateway) | |
@@ -55,7 +55,7 @@
 
 | See   | Repo  | Description |
 | ----- | ----- | ----- |
-| YT AF ![](art/circuitcellar-small.jpg)) | [pixel-hat](https://github.com/topherCantrell/pixel-hat) | |
+| ![](art/youtube-small.jpg) ![](art/adafruit-small.jpg) ![](art/circuitcellar-small.jpg) | [pixel-hat](https://github.com/topherCantrell/pixel-hat) | |
 | | [pixel-megabugs](https://github.com/topherCantrell/pixel-megabugs) | |
 | | [pixel-sign](https://github.com/topherCantrell/pixel-sign) | |
 | | [pixel-prop](https://github.com/topherCantrell/pixel-prop) | |
@@ -64,12 +64,12 @@
 | | [pixel-oreoboard](https://github.com/topherCantrell/pixel-oreoboard) | |
 | | [LED64x32](https://github.com/topherCantrell/LED64x32) | |
 | | [ER-OLEDM032-1](https://github.com/topherCantrell/ER-OLEDM032-1) | |
-| YT | [Jack2015](https://github.com/topherCantrell/Jack2015) | |
+| ![](art/youtube-small.jpg) | [Jack2015](https://github.com/topherCantrell/Jack2015) | |
 | | [OfficeDoorLCD](https://github.com/topherCantrell/OfficeDoorLCD) | |
 | | [OLED-Pushbutton](https://github.com/topherCantrell/OLED-Pushbutton) | |
 | | [line-art](https://github.com/topherCantrell/line-art) | |
-| YT ![](art/circuitcellar-small.jpg) | [Christmas12days](https://github.com/topherCantrell/Christmas12days) | |
-| YT ![](art/circuitcellar-small.jpg) | [SpaceInvadersJoystick](https://github.com/topherCantrell/SpaceInvadersJoystick) | |
+| ![](art/youtube-small.jpg) ![](art/circuitcellar-small.jpg) | [Christmas12days](https://github.com/topherCantrell/Christmas12days) | |
+| ![](art/youtube-small.jpg) ![](art/circuitcellar-small.jpg) | [SpaceInvadersJoystick](https://github.com/topherCantrell/SpaceInvadersJoystick) | |
 
 ## Retro Computing
 
@@ -89,15 +89,15 @@
 | ----- | ----- | ----- |
 | | [farmer-cooks](https://github.com/topherCantrell/farmer-cooks) | |
 | | [vertiv-01-stovehouse-plans](https://github.com/topherCantrell/vertiv-01-stovehouse-plans) | |
-| AF | [FarmerSays](https://github.com/topherCantrell/FarmerSays) | |
+| ![](art/adafruit-small.jpg) | [FarmerSays](https://github.com/topherCantrell/FarmerSays) | |
 | ![](art/circuitcellar-small.jpg) | [text-gaming](https://github.com/topherCantrell/text-gaming) | |
 
 ## Miscellaneous
 
 | See   | Repo  | Description |
 | ----- | ----- | ----- |
-| YT AF ![](art/circuitcellar-small.jpg) | [FSM](https://github.com/topherCantrell/FSM) | |
-| YT ![](art/circuitcellar-small.jpg) | [PropellerGames](https://github.com/topherCantrell/PropellerGames) | |
+| ![](art/youtube-small.jpg) ![](art/adafruit-small.jpg) ![](art/circuitcellar-small.jpg) | [FSM](https://github.com/topherCantrell/FSM) | |
+| ![](art/youtube-small.jpg) ![](art/circuitcellar-small.jpg) | [PropellerGames](https://github.com/topherCantrell/PropellerGames) | |
 | ![](art/circuitcellar-small.jpg) | [Blend](https://github.com/topherCantrell/Blend) | |
 | | [coralTinker](https://github.com/topherCantrell/coralTinker) | |
 | | [SnapMidi](https://github.com/topherCantrell/SnapMidi) | |
