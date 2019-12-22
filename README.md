@@ -76,7 +76,7 @@
 | See   | Repo  | Description |
 | ----- | ----- | ----- |
 | | [CoCoC64DevCart](https://github.com/topherCantrell/CoCoC64DevCart) | |
-| ![](art/circuitcellar-small.jpg) YT | [doublegap](https://github.com/topherCantrell/doublegap) | |
+| ![](art/circuitcellar-small.jpg) ![](art/youtube-small.jpg) | [doublegap](https://github.com/topherCantrell/doublegap) | |
 | | [RC2014](https://github.com/topherCantrell/RC2014) | |
 | | [GameboyColorDevelopment](https://github.com/topherCantrell/GameboyColorDevelopment) | |
 | | [Atari2600-Sound-Card](https://github.com/topherCantrell/Atari2600-Sound-Card) | |
