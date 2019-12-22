@@ -23,11 +23,11 @@
 
 | See   | Repo  | Description |
 | ----- | ----- | ----- |
-| SV | [robots-piCreate](https://github.com/topherCantrell/robots-piCreate) | |
+| ![](art/servo-small.jpg) | [robots-piCreate](https://github.com/topherCantrell/robots-piCreate) | |
 | | [robots-topherBot](https://github.com/topherCantrell/robots-topherBot) | |
-| CC | [robots-MIDIBOT](https://github.com/topherCantrell/robots-MIDIBOT) | |
+| ![](art/circuitcellar-smaoo.jpg) | [robots-MIDIBOT](https://github.com/topherCantrell/robots-MIDIBOT) | |
 | | [robots-miniRaceCar](https://github.com/topherCantrell/robots-miniRaceCar) | |
-| CC | [robots-carol-bot](https://github.com/topherCantrell/robots-carol-bot) | |
+| ![](art/circuitcellar-smaoo.jpg) | [robots-carol-bot](https://github.com/topherCantrell/robots-carol-bot) | |
 
 ## IOT Projects
 
@@ -55,7 +55,7 @@
 
 | See   | Repo  | Description |
 | ----- | ----- | ----- |
-| YT AF CC | [pixel-hat](https://github.com/topherCantrell/pixel-hat) | |
+| YT AF ![](art/circuitcellar-smaoo.jpg) | [pixel-hat](https://github.com/topherCantrell/pixel-hat) | |
 | | [pixel-megabugs](https://github.com/topherCantrell/pixel-megabugs) | |
 | | [pixel-sign](https://github.com/topherCantrell/pixel-sign) | |
 | | [pixel-prop](https://github.com/topherCantrell/pixel-prop) | |
@@ -76,7 +76,7 @@
 | See   | Repo  | Description |
 | ----- | ----- | ----- |
 | | [CoCoC64DevCart](https://github.com/topherCantrell/CoCoC64DevCart) | |
-| CC YT | [doublegap](https://github.com/topherCantrell/doublegap) | |
+| ![](art/circuitcellar-smaoo.jpg) YT | [doublegap](https://github.com/topherCantrell/doublegap) | |
 | | [RC2014](https://github.com/topherCantrell/RC2014) | |
 | | [GameboyColorDevelopment](https://github.com/topherCantrell/GameboyColorDevelopment) | |
 | | [Atari2600-Sound-Card](https://github.com/topherCantrell/Atari2600-Sound-Card) | |
@@ -90,15 +90,15 @@
 | | [farmer-cooks](https://github.com/topherCantrell/farmer-cooks) | |
 | | [vertiv-01-stovehouse-plans](https://github.com/topherCantrell/vertiv-01-stovehouse-plans) | |
 | AF | [FarmerSays](https://github.com/topherCantrell/FarmerSays) | |
-| CC | [text-gaming](https://github.com/topherCantrell/text-gaming) | |
+| ![](art/circuitcellar-smaoo.jpg) | [text-gaming](https://github.com/topherCantrell/text-gaming) | |
 
 ## Miscellaneous
 
 | See   | Repo  | Description |
 | ----- | ----- | ----- |
-| YT AF CC | [FSM](https://github.com/topherCantrell/FSM) | |
-| YT CC | [PropellerGames](https://github.com/topherCantrell/PropellerGames) | |
-| CC | [Blend](https://github.com/topherCantrell/Blend) | |
+| YT AF ![](art/circuitcellar-smaoo.jpg) | [FSM](https://github.com/topherCantrell/FSM) | |
+| YT ![](art/circuitcellar-smaoo.jpg) | [PropellerGames](https://github.com/topherCantrell/PropellerGames) | |
+| ![](art/circuitcellar-smaoo.jpg) | [Blend](https://github.com/topherCantrell/Blend) | |
 | | [coralTinker](https://github.com/topherCantrell/coralTinker) | |
 | | [SnapMidi](https://github.com/topherCantrell/SnapMidi) | |
 | | [PEGS](https://github.com/topherCantrell/PEGS) | |
