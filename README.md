@@ -4,7 +4,7 @@
 
 | Repo  | Description |
 | ----- | ----- |
-| [computerarcheology](https://github.com/topherCantrell/computerarcheology) | Content for the [https://computerarcheology.com](computerarcheology.com) website |
+| [computerarcheology](https://github.com/topherCantrell/computerarcheology) | Content for the [https://computerarcheology.com]([https://computerarcheology.com) website |
 
 ## Teaching
 
