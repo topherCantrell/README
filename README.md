@@ -85,7 +85,7 @@
 
 ## Text and Audio Gaming
 
-| See   | Repo  | Description |
+| Repo  | Description |
 | ----- | ----- |
 | [farmer-cooks](https://github.com/topherCantrell/farmer-cooks) | |
 | [vertiv-01-stovehouse-plans](https://github.com/topherCantrell/vertiv-01-stovehouse-plans) | |
