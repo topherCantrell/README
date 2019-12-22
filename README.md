@@ -2,9 +2,9 @@
 
 ## ComputerArcheology.com
 
-| See   | Repo  | Description |
-| ----- | ----- | ----- |
-| | [computerarcheology](https://github.com/topherCantrell/computerarcheology) | Content for the computerarcheology.com website |
+| Repo  | Description |
+| ----- | ----- |
+| [computerarcheology](https://github.com/topherCantrell/computerarcheology) | Content for the [https://computerarcheology.com](computerarcheology.com) website |
 
 ## Teaching
 
