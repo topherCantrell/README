@@ -96,6 +96,7 @@
 
 | Repo  | Description |
 | ----- | ----- |
+| [LegoHat](https://gitbub.com/topherCantrell/LegoHat) | |
 | [FSM](https://github.com/topherCantrell/FSM) | ![](art/youtube-small.jpg) ![](art/adafruit-small.jpg) ![](art/circuitcellar-small.jpg) |
 | [PropellerGames](https://github.com/topherCantrell/PropellerGames) | ![](art/youtube-small.jpg) ![](art/circuitcellar-small.jpg) |
 | [Blend](https://github.com/topherCantrell/Blend) | ![](art/circuitcellar-small.jpg) |
